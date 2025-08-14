@@ -1,2 +1,4 @@
 xxx
 123
+
+OK - sprawdzony w chmurze GitHub
